@@ -1,0 +1,17 @@
+CREATE GRAPH TYPE movie STRICT {
+(personType : Person{ id int , name STRING , optional born int , optional poster_image String }),
+(genreType :Genre{ id int,name String }),
+(keywordType :Keyword{ id int,name String }),
+(userType: User{id int,login String}),
+(movieType:Movie{id int,title String,tagline String,optional summary String,optional poster_image String,duration int,optional rated String}),
+
+(:personType)-[acted_inType:acted_in{role String}] ->(:movieType),
+(:userType)-[rateType:rate{stars int}] ->(:movieType),
+(:personType)-[directedType:directed{}] ->(:movieType),
+(:userType)-[is_friendType:is_friend{}] ->(:userType),
+(:movieType)-[has_genreType:has_genre{}] ->(:genreType),
+(:movieType)-[has_keywordType:has_keyword{}] ->(:keywordType),
+(:personType)-[produceType:produce{}] ->(:movieType),
+(:personType)-[writeType:write{}] ->(:movieType)
+}
+;

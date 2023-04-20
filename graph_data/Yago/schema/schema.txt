@@ -1,0 +1,13 @@
+CREATE GRAPH TYPE CovidDemo STRICT {
+(PersonType : person{ name String,optional birthyear Int , phone Int }),
+(CityType : city{ name String}),
+(FilmType : film{ title String}),
+
+(:PersonType)-[has_childType:has_child{}] ->(:PersonType),
+(:PersonType)-[marriedType:married{}] ->(:PersonType),
+(:PersonType)-[born_inType:born_in{weight Float}] ->(:CityType),
+(:PersonType)-[directedType:directed{}] ->(:FilmType),
+(:PersonType)-[wrote_music_forType:wrote_music_for{}] ->(:FilmType),
+(:PersonType)-[acted_inType:acted_in{charactername String}] ->(:FilmType)
+}
+;

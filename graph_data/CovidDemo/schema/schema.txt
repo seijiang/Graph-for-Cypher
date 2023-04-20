@@ -1,0 +1,19 @@
+CREATE GRAPH TYPE CovidDemo STRICT {
+(personType : person{ id String,optional name String , optional is_confirmed bool , optional confirmed_at String }),
+(provinceType :province{ id String,optional name String }),
+(addressType :address{ id String,optional name String,optional street_id String }),
+(cityType: city{id String,optional name String,optional province_id String}),
+(districtType:district{id String,optional name String,optional city_id String}),
+(streetType: street{id String,optional name String,optional incremental_id String,optional city_id String}),
+(townType: town{id String,optional name String,optional district_id String}),
+
+
+(:personType)-[person_visit_addressType:person_visit_address{start_time String,end_time String}] ->(:addressType),
+(:personType)-[person_live_with_personType:person_live_with_person{start_time String,end_time String}] ->(:personType),
+(:districtType)-[district_to_townType:district_to_town{}] ->(:townType),
+(:provinceType)-[province_to_cityType:province_to_city{}] ->(:cityType),
+(:cityType)-[city_to_districtType:city_to_district{}] ->(:districtType),
+(:streetType)-[street_to_addressType:street_to_address{}] ->(:addressType),
+(:townType)-[town_to_streetType:town_to_street{}] ->(:streetType)
+}
+;

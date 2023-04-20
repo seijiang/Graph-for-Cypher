@@ -1,0 +1,666 @@
+:START_ID,:END_ID,role,:TYPE
+2,1,Morpheus,acted_in
+2,28,Morpheus,acted_in
+2,68,Morpheus,acted_in
+3,1,Trinity,acted_in
+3,28,Trinity,acted_in
+3,68,Trinity,acted_in
+4,130,Old Salty Dog / Mr. Meeks / Prescient 1,acted_in
+4,1,Agent Smith,acted_in
+4,28,Agent Smith,acted_in
+4,68,Agent Smith,acted_in
+4,641,Elrond,acted_in
+4,698,Elrond,acted_in
+4,797,Elrond,acted_in
+5,1,Oracle,acted_in
+5,28,Oracle,acted_in
+6,1,Cypher,acted_in
+7,1,Tank,acted_in
+8,1,Mouse,acted_in
+9,1,Dozer,acted_in
+10,1,Neo,acted_in
+10,28,Neo,acted_in
+10,68,Neo,acted_in
+11,1,White Rabbit Girl,acted_in
+12,1,Spoon Boy,acted_in
+29,28,The Architect,acted_in
+29,68,The Architect,acted_in
+30,28,The Merovingian,acted_in
+30,68,The Merovingian,acted_in
+31,28,Persephone,acted_in
+31,68,Persephone,acted_in
+32,28,Twin #2,acted_in
+33,28,Twin #1,acted_in
+34,28,Agent Johnson,acted_in
+35,28,Captain Ballard,acted_in
+35,68,Captain Ballard,acted_in
+36,28,The Keymaker,acted_in
+36,68,The Keymaker,acted_in
+37,28,Commander Lock,acted_in
+37,68,Commander Lock,acted_in
+38,28,Seraph,acted_in
+38,68,Seraph,acted_in
+39,28,Councillor West,acted_in
+39,68,Councillor West,acted_in
+40,28,Niobe,acted_in
+40,68,Niobe,acted_in
+41,28,Zee,acted_in
+41,68,Zee,acted_in
+42,28,Soren,acted_in
+43,28,Security Guard #5,acted_in
+44,28,Maitre D',acted_in
+45,28,Councillor Dillard,acted_in
+46,28,Link,acted_in
+46,68,Link,acted_in
+47,28,Cas,acted_in
+47,68,Cas,acted_in
+48,28,Kid,acted_in
+49,28,Axel,acted_in
+50,28,Rama-Kandra,acted_in
+50,68,Rama-Kandra,acted_in
+51,28,Councillor Hamann,acted_in
+69,68,Oracle,acted_in
+83,82,Butch Coolidge,acted_in
+84,82,Vincent Vega,acted_in
+85,82,Jules Winfield,acted_in
+85,781,Stacks Edwards,acted_in
+85,1412,Pat Novak,acted_in
+85,2055,Nick Fury,acted_in
+86,82,Wolf,acted_in
+87,82,Mia Wallace,acted_in
+88,82,Lance,acted_in
+89,82,Marsellus Wallace,acted_in
+90,82,Pumpkin,acted_in
+91,82,Honey Bunny,acted_in
+92,82,Fabienne,acted_in
+93,82,Zed,acted_in
+93,2767,Redfoot the Fence,acted_in
+94,82,Jody,acted_in
+95,82,Maynard,acted_in
+96,82,Brett,acted_in
+97,82,Buddy Holly,acted_in
+97,3106,Carl Showalter,acted_in
+98,82,Captain Koons,acted_in
+99,82,Raquel,acted_in
+100,82,Jimmie Dimmick,acted_in
+101,82,Man No. 4,acted_in
+102,82,Trudi,acted_in
+103,82,Marvin,acted_in
+104,82,Roger,acted_in
+105,82,Dean Martin,acted_in
+106,82,Long Hair Yuppy Scum,acted_in
+107,82,Hit-and-run Witness,acted_in
+109,750,Martini,acted_in
+109,2398,The Lorax (voice),acted_in
+131,130,Old Salty Dog / Mr. Meeks / Prescient 1,acted_in
+131,770,Forrest Gump,acted_in
+132,130,Old Salty Dog / Mr. Meeks / Prescient 1,acted_in
+133,130,Old Salty Dog / Mr. Meeks / Prescient 1,acted_in
+133,3624,Denis Thatcher,acted_in
+134,130,Madame Horrox / Older Ursula / Yusouf Suleiman / Abbess,acted_in
+135,130,Rev. Giles Horrox / Hotel Heavy / Lloyd Hooks / Denholme Cavendish / Seer Rhee / Kona Chief,acted_in
+136,130,Old Salty Dog / Mr. Meeks / Prescient 1,acted_in
+137,130,Old Salty Dog / Mr. Meeks / Prescient 1,acted_in
+138,130,Old Salty Dog / Mr. Meeks / Prescient 1,acted_in
+139,130,Adam Ewing / Poor Hotel Guest / Megan's Dad / Highlander / Hae-Joo Chang / Adam / Zachry Brother-in-Law,acted_in
+140,130,Cabin Boy / Robert Frobisher / Store Clerk / Georgette / Tribesman,acted_in
+141,130,Talbot / Hotel Manager / Yoona-939 / Rose,acted_in
+142,130,Autua / Lester Rey / Duophsyte,acted_in
+143,130,Old Salty Dog / Mr. Meeks / Prescient 1,acted_in
+144,130,Mr. Boerhaave / Guard / Leary the Healer,acted_in
+458,457,Andy Dufresne,acted_in
+459,457,Ellis Boyd 'Red' Redding,acted_in
+459,532,Lucius Fox,acted_in
+459,564,Fox,acted_in
+459,1366,Vitruvius (voice),acted_in
+460,457,Warden Samuel Norton,acted_in
+461,457,Heywood,acted_in
+462,457,Captain Byron T. Hadley,acted_in
+463,457,Tommy,acted_in
+464,457,Bogs Diamond,acted_in
+465,457,Brooks Hatlen,acted_in
+472,471,Don Vito Corleone,acted_in
+473,471,Michael Corleone,acted_in
+473,496,Don Michael Corleone,acted_in
+474,471,Santino 'Sonny' Corleone,acted_in
+474,496,Sonny Corleone,acted_in
+475,471,Pete Clemenza,acted_in
+476,471,Tom Hagen,acted_in
+476,496,Tom Hagen,acted_in
+477,471,Capt. Mark McCluskey,acted_in
+478,471,Emilio Barzini,acted_in
+479,471,Virgil 'Der Türke' Sollozzo,acted_in
+480,471,Kay Adams,acted_in
+480,496,Kay Corleone,acted_in
+481,471,Salvatore "Sally" Tessio,acted_in
+482,471,Connie Corleone Rizzi,acted_in
+482,496,Connie Corleone,acted_in
+483,471,Carlo Rizzi,acted_in
+484,471,Fredo Corleone,acted_in
+484,496,Fredo Corleone,acted_in
+485,471,Jack Woltz,acted_in
+486,471,Carmine Cuneo,acted_in
+487,471,Johnny Fontane,acted_in
+488,471,Apollonia Vitelli-Corleone,acted_in
+489,471,Moe Greene,acted_in
+490,471,Baby in baptism scene,acted_in
+497,496,Vito Corleone,acted_in
+497,781,Jimmy Conway,acted_in
+497,1118,Victor Tellegio,acted_in
+497,3680,Al Capone,acted_in
+498,496,Hyman Roth,acted_in
+499,496,Frankie Pentangeli,acted_in
+500,496,Senator Pat Geary,acted_in
+501,496,Al Neri,acted_in
+502,496,Don Fanucci,acted_in
+503,496,Young Clemenza (as B. Kirby Jr.),acted_in
+504,496,Genco,acted_in
+504,781,Frankie Carbone,acted_in
+505,496,Deanna Corleone (as Mariana Hill),acted_in
+506,496,Johnny Ola,acted_in
+507,496,Mrs. Marcia Roth,acted_in
+508,496,F.B.I. Man #1,acted_in
+508,2055,Security Guard,acted_in
+509,496,Tony Rosato,acted_in
+510,496,Senator #2,acted_in
+510,3252,FBI Director Hayden Burke,acted_in
+518,517,Tuco,acted_in
+519,517,Blondie,acted_in
+520,517,Sentenza/Angel Eyes,acted_in
+521,517,Alcoholic Union Captain,acted_in
+522,517,Member of Angel Eyes' Gang,acted_in
+523,517,Cpl. Wallace,acted_in
+533,532,Joker,acted_in
+534,532,Rachel Dawes,acted_in
+535,532,Harvey Dent,acted_in
+536,532,Lt. James Gordon,acted_in
+536,564,Commissioner Gordon,acted_in
+536,1412,Norton,acted_in
+537,737,Miles,acted_in
+537,532,Alfred,acted_in
+537,564,Jen,acted_in
+538,737,Robert Fischer,acted_in
+538,532,Scarecrow,acted_in
+538,564,Dr. Jonathan Crane / Scarecrow,acted_in
+539,532,Bruce Wayne,acted_in
+539,564,Bruce Wayne / Batman,acted_in
+539,1118,Irving Rosenfeld,acted_in
+540,532,Engel,acted_in
+541,532,Mayor of Gotham,acted_in
+541,564,The Mayor,acted_in
+542,532,The bank manager,acted_in
+542,1768,John Carlyle,acted_in
+543,532,Lau,acted_in
+544,532,Salvatore Maroni,acted_in
+545,532,Barbara Gordon,acted_in
+546,532,Chechen,acted_in
+547,532,Stephen,acted_in
+548,532,Loeb,acted_in
+565,564,Selina Kyle,acted_in
+566,737,Eames,acted_in
+566,564,Bane,acted_in
+567,737,Arthur,acted_in
+567,564,Blake,acted_in
+568,564,Jen,acted_in
+569,737,Mal,acted_in
+569,564,Miranda,acted_in
+570,564,Young Ra's Al Ghul,acted_in
+571,564,Chanter (voice),acted_in
+572,564,Prisoner,acted_in
+573,564,Deputy Commissioner Foley,acted_in
+574,564,Young Talia Al Ghul,acted_in
+575,564,Dr. Pavel (as Alon Moni Aboutboul),acted_in
+576,598,Oskar Schindler,acted_in
+576,564,Ra's Al Ghul,acted_in
+576,1366,Bad Cop/Good cop (voice),acted_in
+577,564,Mercenary Security #1,acted_in
+578,564,Daggett,acted_in
+579,564,Captain Jones,acted_in
+580,564,CIA Op,acted_in
+599,598,Itzhak Stern,acted_in
+599,2885,Georges Méliès,acted_in
+600,598,Amon Goeth,acted_in
+601,598,Emilie Schindler,acted_in
+602,598,Helen Hirsch,acted_in
+603,598,Julian Scherner,acted_in
+604,598,Rolf Czurda,acted_in
+605,598,Herman Toffel,acted_in
+606,598,Mr. Nussbaum,acted_in
+616,615,Juror 8,acted_in
+617,615,Juror 3,acted_in
+618,615,Juror 10,acted_in
+619,615,Juror 4,acted_in
+620,615,Juror 7,acted_in
+621,615,Juror 1,acted_in
+622,615,Juror 2,acted_in
+623,615,Juror 5,acted_in
+624,615,Juror 6,acted_in
+625,615,Juror 11,acted_in
+626,615,Juror 12,acted_in
+642,641,Frodo Baggins,acted_in
+642,698,Frodo Baggins,acted_in
+642,797,Frodo Baggins,acted_in
+643,641,Gandalf the White,acted_in
+643,698,Gandalf the Grey,acted_in
+643,797,Gandalf the White,acted_in
+644,641,Aragorn,acted_in
+644,698,Aragorn,acted_in
+644,797,Aragorn,acted_in
+645,641,Arwen Evenstar,acted_in
+645,698,Arwen Evenstar,acted_in
+645,797,Arwen Evenstar,acted_in
+646,641,Legolas,acted_in
+646,698,Legolas,acted_in
+646,797,Legolas,acted_in
+647,641,Gimli & Treebeard (Voice),acted_in
+647,698,Gimli,acted_in
+647,797,Gimli / Voice of Treebeard,acted_in
+648,641,Sam Gamgee,acted_in
+648,698,Samwise 'Sam' Gamgee,acted_in
+648,797,Sam Gamgee,acted_in
+649,641,Peregrin 'Pippin' Took,acted_in
+649,698,Peregrin 'Pippin' Took,acted_in
+649,797,Peregrin 'Pippin' Took,acted_in
+650,641,Meriadoc 'Merry' Brandybuck,acted_in
+650,698,Meriadoc 'Merry' Brandybuck,acted_in
+650,797,Meriadoc 'Merry' Brandybuck,acted_in
+651,641,Théoden King of Rohan,acted_in
+651,797,Théoden,acted_in
+652,641,Gollum,acted_in
+652,698,Gollum,acted_in
+652,797,Gollum,acted_in
+653,641,éowyn,acted_in
+653,797,éowyn,acted_in
+654,641,Faramir,acted_in
+654,797,Faramir,acted_in
+654,1097,Dillios,acted_in
+655,641,éomer,acted_in
+655,797,éomer,acted_in
+656,641,Denethor,acted_in
+657,641,Bilbo Baggins,acted_in
+657,698,Bilbo Baggins,acted_in
+658,641,Galadriel,acted_in
+658,698,Galadriel,acted_in
+658,797,Galadriel,acted_in
+658,1356,Rose Valland,acted_in
+659,641,Gothmog & Witchking of Angmar,acted_in
+659,698,Lurtz,acted_in
+660,641,King of the Dead,acted_in
+661,641,Rosie Cotton,acted_in
+661,698,Rose 'Rosie' Cotton,acted_in
+662,641,Boromir,acted_in
+662,698,Boromir,acted_in
+662,797,Boromir,acted_in
+663,641,Celeborn,acted_in
+663,698,Celeborn,acted_in
+682,681,The Narrator,acted_in
+683,681,Tyler Durden,acted_in
+683,1693,Bass,acted_in
+684,681,Marla Singer,acted_in
+684,3390,Queen Elizabeth,acted_in
+685,681,Robert 'Bob' Paulson,acted_in
+686,681,Angel Face,acted_in
+686,1596,Rayon,acted_in
+687,681,Richard Chesler,acted_in
+688,681,The Mechanic,acted_in
+689,681,Ricky,acted_in
+699,698,Saruman,acted_in
+699,797,Saruman,acted_in
+699,2885,Monsieur Labisse,acted_in
+700,698,Haldir,acted_in
+700,797,Haldir,acted_in
+711,710,Luke Skywalker,acted_in
+711,805,Luke Skywalker,acted_in
+712,710,Han Solo,acted_in
+712,805,Han Solo,acted_in
+713,710,Princess Leia,acted_in
+713,805,Leia Organa,acted_in
+714,710,Darth Vader,acted_in
+714,805,Darth Vader,acted_in
+715,710,Lando Calrissian,acted_in
+716,710,C-3PO,acted_in
+716,805,C-3PO,acted_in
+716,1366,C-3PO (voice),acted_in
+717,710,Chewbacca,acted_in
+717,805,Chewbacca,acted_in
+718,710,Darth Vader (Voice),acted_in
+718,805,Darth Vader (voice),acted_in
+719,710,R2-D2,acted_in
+719,805,R2-D2,acted_in
+720,710,Yoda (Voice),acted_in
+721,710,Ben 'Obi-wan' Kenobi,acted_in
+721,805,Obi-Wan Kenobi,acted_in
+722,710,Imperial Force General Veers,acted_in
+723,710,Rebel Force Major Derlin,acted_in
+738,737,Cobb,acted_in
+739,737,Saito,acted_in
+740,737,Ariadne,acted_in
+741,737,Browning,acted_in
+742,737,Nash,acted_in
+743,737,Yusuf,acted_in
+744,737,Maurice Fischer,acted_in
+744,2654,William Crowthorn,acted_in
+744,2767,Kobayashi,acted_in
+745,737,Blonde,acted_in
+751,750,Randle Patrick McMurphy,acted_in
+752,750,Nurse Mildred Ratched,acted_in
+753,750,Harding,acted_in
+754,750,Orderly Turkle,acted_in
+755,750,Billy Bibbit,acted_in
+755,797,Gríma Wormtongue,acted_in
+756,750,Taber,acted_in
+757,750,Chief Bromden,acted_in
+758,750,Ellis,acted_in
+759,750,Jim Sefelt,acted_in
+760,750,Fredrickson,acted_in
+771,770,Jenny Curran,acted_in
+771,2498,Wealthow,acted_in
+772,770,Lt. Dan Taylor,acted_in
+773,770,Pvt. Benjamin Buford 'Bubba' Blue,acted_in
+774,770,Mrs. Gump,acted_in
+775,770,Young Forrest Gump,acted_in
+782,781,Henry Hill,acted_in
+783,781,Tommy DeVito,acted_in
+784,781,Karen Hill,acted_in
+785,781,Sonny Bunz,acted_in
+786,781,Frenchy,acted_in
+787,781,Billy Batts,acted_in
+788,781,Sandy,acted_in
+789,781,Spider,acted_in
+790,781,Paul Cicero,acted_in
+798,797,Freda,acted_in
+806,805,Grand Moff Tarkin,acted_in
+807,805,Uncle Owen,acted_in
+808,805,Aunt Beru,acted_in
+809,805,Advisor to Grand Moff Tarkin,acted_in
+810,805,Jek Tono Porkins (Red Six),acted_in
+811,805,Lt. Shann Childsen,acted_in
+812,805,General Willard,acted_in
+813,805,Red Two (Wedge) (as Dennis Lawson),acted_in
+814,805,Red Three (Biggs),acted_in
+815,805,Death Star Trooper (uncredited),acted_in
+1073,1096,Vivi Delay,acted_in
+1074,1096,Ethan Runner,acted_in
+1074,3680,Eliot Ness,acted_in
+1075,1096,Zoey Renner,acted_in
+1076,1096,Christine Renner,acted_in
+1098,1097,Artemisia,acted_in
+1099,1097,Queen Gorgo,acted_in
+1100,1097,Scylias,acted_in
+1101,1097,Xerxes,acted_in
+1102,1097,Calisto,acted_in
+1103,1097,Ephialtes,acted_in
+1104,1097,Daxos,acted_in
+1105,1097,Aesyklos,acted_in
+1119,1118,Richie DiMaso,acted_in
+1120,1118,Syndey Prosser,acted_in
+1120,1550,Amy,acted_in
+1121,1118,Carmine Polito,acted_in
+1121,2232,Hansel,acted_in
+1121,2055,Clint Barton / Hawkeye,acted_in
+1122,1118,Rosalyn Rosenfeld,acted_in
+1123,1118,Stoddard Thorsen,acted_in
+1124,1118,Pete Musane,acted_in
+1125,1118,Paco Hernandez,acted_in
+1126,1118,Anthony Amado,acted_in
+1127,1118,Dolly Polito,acted_in
+1128,1118,Cosmo Girl,acted_in
+1129,1118,Abbie Abrams,acted_in
+1130,1118,Brenda,acted_in
+1131,1118,Carl Elway,acted_in
+1132,1118,Irv's Sheik Plant,acted_in
+1242,1241,Anna (voice),acted_in
+1243,1241,Elsa (voice),acted_in
+1244,1241,Olaf (voice),acted_in
+1245,1241,Duke (voice),acted_in
+1246,1241,Pabbie / Grandpa (voice),acted_in
+1246,3459,Fletcher,acted_in
+1247,1241,Oaken (voice),acted_in
+1248,1241,Kai (voice),acted_in
+1249,1241,Gerda,acted_in
+1250,1241,Bishop (voice),acted_in
+1251,1241,King (voice),acted_in
+1294,1293,Dr. Ryan Stone,acted_in
+1295,1356,George Stout,acted_in
+1295,1293,Matt Kowalski,acted_in
+1296,1293,Mission Control (voice),acted_in
+1357,1356,James Rorimer,acted_in
+1357,1768,Max,acted_in
+1358,1356,Richard Campbell,acted_in
+1358,3915,Bob Harris,acted_in
+1359,1356,Walter Garfield,acted_in
+1360,1356,Donald Jeffries,acted_in
+1361,1356,Jean Claude Clermont,acted_in
+1362,1356,Preston Savitz,acted_in
+1363,1356,Sam Epstein,acted_in
+1364,1356,Commander Elya,acted_in
+1367,1366,Wonder Woman (voice),acted_in
+1367,2055,Agent Maria Hill,acted_in
+1368,1366,Superman (voice),acted_in
+1369,1366,Green Lantern (voice),acted_in
+1370,1366,Wyldstyle (voice),acted_in
+1371,1366,President Business (voice),acted_in
+1372,1366,Emmet (voice),acted_in
+1372,1550,Paul,acted_in
+1373,1366,Batman (voice),acted_in
+1374,1366,Uni-Kitty (voice),acted_in
+1375,1366,Craggy (voice),acted_in
+1376,1366,Spaceman Benny (voice),acted_in
+1377,1366,Wally (voice),acted_in
+1378,1366,Abraham Lincoln (voice),acted_in
+1413,1412,RoboCop,acted_in
+1414,1412,Raymond Sellars,acted_in
+1415,1412,Pope,acted_in
+1416,1412,Ellen Murphy,acted_in
+1417,1412,Maddox,acted_in
+1418,1412,Liz Kline,acted_in
+1418,3390,Myrtle Logue,acted_in
+1419,1412,Karen Dean,acted_in
+1420,1412,Kim,acted_in
+1551,1550,Theodore,acted_in
+1552,1550,Samantha (voice),acted_in
+1552,2055,Natasha Romanoff / Black Widow,acted_in
+1552,3915,Charlotte,acted_in
+1553,1550,Catherine,acted_in
+1554,1550,Blind Date,acted_in
+1555,1550,Isabella,acted_in
+1556,1550,Dr. Johnson,acted_in
+1557,1550,Alien Child,acted_in
+1558,1550,Chat Room Friend #2,acted_in
+1559,1550,Sexy Kitten,acted_in
+1560,1550,Alan Watts (voice),acted_in
+1597,1596,Ron Woodroof,acted_in
+1598,1596,Dr. Eve Saks,acted_in
+1599,1596,David Wayne,acted_in
+1600,1596,Tucker,acted_in
+1601,1596,T.J.,acted_in
+1602,1596,Dr. Vass,acted_in
+1603,1596,Dr. Sevard,acted_in
+1694,1693,Solomon Northup,acted_in
+1695,1693,Edwin Epps,acted_in
+1696,1693,Mistress Epps,acted_in
+1697,1693,John Tibeats,acted_in
+1697,3459,Paul Sunday / Eli Sunday,acted_in
+1698,1693,Ford,acted_in
+1699,1693,Armsby,acted_in
+1700,1693,Robert,acted_in
+1701,1693,Freeman,acted_in
+1702,1693,Mistress Harriet Shaw,acted_in
+1703,1693,Hamilton,acted_in
+1704,1693,Judge Turner,acted_in
+1753,1768,Delacourt,acted_in
+1753,3252,Clarice Starling,acted_in
+1754,1768,Kruger,acted_in
+1755,1768,Frey,acted_in
+1756,1768,Julio,acted_in
+1757,1768,Spider,acted_in
+1758,1768,President Patel,acted_in
+1759,1768,Sandro,acted_in
+1760,1768,Young Max,acted_in
+1761,1768,Manuel,acted_in
+1762,1768,(uncredited),acted_in
+1763,1768,CCB Agent,acted_in
+1764,1768,CCB Agent,acted_in
+1765,1768,Technician,acted_in
+1857,1856,Nod (voice),acted_in
+1858,1856,Mary Katherine (voice),acted_in
+1859,1856,Ronin (voice),acted_in
+1860,1856,Bomba (voice),acted_in
+1861,1856,Mub (voice),acted_in
+1862,1856,Queen Tara (voice),acted_in
+1863,1856,Taxi Driver (voice),acted_in
+1864,1856,Nim Galuu (voice),acted_in
+1865,1856,Bufo (voice),acted_in
+1866,1856,Mandrake (voice),acted_in
+1867,1856,Pinecone Jinn (voice),acted_in
+1868,1856,Thistle Jinn (voice),acted_in
+1936,1935,Grug (voice),acted_in
+1937,1935,Eep (voice),acted_in
+1938,1935,Guy (voice),acted_in
+1939,1935,Ugga (voice),acted_in
+1939,3753,Harper Lee,acted_in
+1940,1935,Gran (voice),acted_in
+1941,1935,Thunk (voice),acted_in
+2009,2008,Mr. Peabody,acted_in
+2010,2008,Sherman,acted_in
+2011,2008,Penny Peterson,acted_in
+2012,2008,Mrs. Grunion,acted_in
+2013,2008,Paula Peterson,acted_in
+2014,2008,Paul Peterson,acted_in
+2015,2008,Principal Purdy,acted_in
+2015,2398,Uncle Ubb (voice),acted_in
+2016,2008,Mason,acted_in
+2017,2008,wooo,acted_in
+2018,2008,Leonardo Da Vinci,acted_in
+2019,2008,Patty Pearson,acted_in
+2056,2055,Tony Stark / Iron Man,acted_in
+2057,2055,Steve Rogers / Captain America,acted_in
+2058,2055,Bruce Banner / The Hulk,acted_in
+2059,2055,Thor,acted_in
+2060,2055,Loki,acted_in
+2061,2055,Agent Phil Coulson,acted_in
+2061,2767,Dr. Walters,acted_in
+2062,2055,Selvig,acted_in
+2063,2055,Pepper Potts,acted_in
+2064,2055,Jarvis (voice),acted_in
+2065,2055,World Security Council,acted_in
+2066,2055,Shield Pilot,acted_in
+2067,2055,World Security Council,acted_in
+2068,2055,Old Man in TV Report,acted_in
+2069,2055,Waitress,acted_in
+2070,2055,Georgi Luchkov,acted_in
+2071,2055,Senator Boynton,acted_in
+2072,2055,Young Cop,acted_in
+2233,2232,Gretel,acted_in
+2234,2232,Muriel,acted_in
+2235,2232,Mina,acted_in
+2236,2232,Edward,acted_in
+2237,2232,Berringer,acted_in
+2237,3106,Gaear Grimsrud,acted_in
+2238,2232,Horned Witch,acted_in
+2239,2232,Tall Witch,acted_in
+2240,2232,Red Haired Witch,acted_in
+2241,2232,Candy Witch,acted_in
+2242,2232,Father,acted_in
+2399,2398,Ted (voice),acted_in
+2400,2398,Audrey (voice),acted_in
+2401,2398,Once-ler (voice),acted_in
+2402,2398,Marta (voice),acted_in
+2403,2398,O'Hare,acted_in
+2404,2398,Grammy Norma (voice),acted_in
+2405,2398,Ted's Mom (voice),acted_in
+2406,2398,Once-ler's Mom (voice),acted_in
+2407,2398,Aunt Grizelda (voice),acted_in
+2408,2398,Brett / Chet (voice),acted_in
+2423,2422,Mulan (singing voice),acted_in
+2424,2422,Mushu (voice),acted_in
+2425,2422,Shang (voice),acted_in
+2426,2422,Mulan (voice),acted_in
+2427,2422,Shan-Yu (voice),acted_in
+2428,2422,Yao (voice),acted_in
+2429,2422,Grandmother Fa (voice),acted_in
+2430,2422,Chi Fu (voice),acted_in
+2431,2422,The Matchmaker (voice),acted_in
+2432,2422,The Emperor (voice),acted_in
+2433,2422,Fa Zhou (voice),acted_in
+2434,2422,Shang (singing voice),acted_in
+2435,2422,General Li (voice),acted_in
+2436,2422,First Ancestor (voice),acted_in
+2437,2422,Ling (voice),acted_in
+2438,2422,Khan / Cri-Kee (voice),acted_in
+2499,2498,Beowulf / Golden Man / Dragon,acted_in
+2499,2885,Uncle Claude,acted_in
+2500,2498,Grendel's Mother,acted_in
+2501,2498,Hrothgar,acted_in
+2501,3252,Dr. Hannibal Lecter,acted_in
+2502,2498,Unferth,acted_in
+2503,2498,Wiglaf,acted_in
+2504,2498,Grendel,acted_in
+2505,2498,Ursula,acted_in
+2506,2498,Garmund,acted_in
+2507,2498,Wulfgar,acted_in
+2508,2498,Old Cain,acted_in
+2509,2498,Eofor,acted_in
+2655,2654,Solomon Kane,acted_in
+2656,2654,Katherine Crowthorn,acted_in
+2657,2654,Father Michael,acted_in
+2658,2654,Josiah Kane,acted_in
+2659,2654,Malachi,acted_in
+2660,2654,Meredith Crowthorn,acted_in
+2661,2654,Edward Crowthorn,acted_in
+2662,2654,Devil's Reaper,acted_in
+2663,2654,Skinhead,acted_in
+2768,2767,Roger 'Verbal' Kint,acted_in
+2769,2767,Michael McManus,acted_in
+2770,2767,Dean Keaton,acted_in
+2771,2767,Fred Fenster,acted_in
+2772,2767,Todd Hockney,acted_in
+2773,2767,Dave Kujan US Customs,acted_in
+2774,2767,Jack Baer FBI,acted_in
+2775,2767,Edie Finneran,acted_in
+2776,2767,Sgt. Jeffrey Jeff Rabin,acted_in
+2777,2767,Dr. Plummer,acted_in
+2778,2767,Smuggler,acted_in
+2886,2885,Hugo Cabret,acted_in
+2887,2885,Isabelle,acted_in
+2888,2885,The Station Inspector,acted_in
+2889,2885,Hugo's Father,acted_in
+2890,2885,Mama Jeanne,acted_in
+2891,2885,Rene Rabard,acted_in
+2892,2885,Lisette,acted_in
+2893,2885,Madame Emilie,acted_in
+2894,2885,Monsieur Frick,acted_in
+3107,3106,Jerry Lundegaard,acted_in
+3108,3106,Marge Gunderson,acted_in
+3109,3106,Wade Gustafson,acted_in
+3110,3106,Norm Gunderson,acted_in
+3111,3106,Shep Proudfoot,acted_in
+3253,3252,Ardelia Mapp,acted_in
+3254,3252,Jack Crawford,acted_in
+3255,3252,Dr. Frederick Chilton,acted_in
+3256,3252,Barney Matthews,acted_in
+3257,3252,Catherine Martin,acted_in
+3258,3252,Jame Gumb,acted_in
+3259,3252,Lamar,acted_in
+3260,3252,Roden,acted_in
+3261,3252,TV Anchor Man,acted_in
+3262,3252,Senator Ruth Martin,acted_in
+3263,3252,Lt. Boyle,acted_in
+3264,3252,SWAT Commander,acted_in
+3265,3252,SWAT Communicator,acted_in
+3266,3252,FBI Agent in Memphis (uncredited),acted_in
+3391,3390,King George VI,acted_in
+3392,3390,Lionel Logue,acted_in
+3393,3390,King Edward VIII,acted_in
+3394,3390,Winston Churchill,acted_in
+3395,3390,King George V,acted_in
+3396,3390,Archbishop Cosmo Lang,acted_in
+3397,3390,Wallis Simpson,acted_in
+3397,3390,Princess Margaret,acted_in
+3460,3459,Daniel Plainview,acted_in
+3461,3459,Henry,acted_in
+3462,3459,H. B. Ailman,acted_in
+3463,3459,Prescott,acted_in
+3625,3624,Margaret Thatcher,acted_in
+3626,3624,Geoffrey Howe,acted_in
+3627,3624,Young Denis Thatcher,acted_in
