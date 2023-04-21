@@ -1,0 +1,4 @@
+CREATE GRAPH TYPE test STRICT {
+(testType : test{ id int ,name String,optional date Date , optional datetime DateTime,judge bool })
+}
+;

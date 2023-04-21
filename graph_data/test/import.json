@@ -1,0 +1,17 @@
+{
+    "graph_name":"test",
+    "schema":"./data/test/schema/schema.txt",
+    "delimiter":",",
+    "vertexs":[
+        {
+            "type_name":"testType",
+            "path":"./data/test/csv/test.csv",
+            "columns":[
+                "id:ID","name","date","datetime","judge"
+            ],
+            "header":1,
+            "primary":"id"
+        }
+    ],
+    "edges":[]
+}
